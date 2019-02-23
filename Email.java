@@ -1,8 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+I had to come up with a not so pretty solution for unwanted domains (see the if's down below) because of time constraints.
+Of course, the proper solution would be to find a working regular expression.
+
  */
+
 package proiectpi2;
 
 import java.util.Locale;
