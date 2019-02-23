@@ -12,3 +12,6 @@
 -The tool can form a dictionary and extract the verbs as well as display their corresponding stems
 (https://lucene.apache.org/core/6_2_0/analyzers-common/org/apache/lucene/analysis/snowball/SnowballFilter.html)
 (https://nlp.stanford.edu/software/tagger.shtml)
+
+
+![alt text](https://i.imgur.com/Jj1Ji8y.png)
